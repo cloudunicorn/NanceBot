@@ -1,9 +1,9 @@
 {
-  "name": "Esther Bot",
-  "description": "Esther, bot.",
-  "keywords": ["esther", "bot", "express"],
-  "website": "https://estherbot.com",
-  "repository": "https://github.com/esthercrawford/smooch-bot-example",
+  "name": "NanceBot",
+  "description": "Nance, bot.",
+  "keywords": ["nance", "bot", "express", "finance"],
+  "website": "https://meetnance.com",
+  "repository": "https://github.com/cloudunicorn/nancebot",
   "logo": "http://www.estherbot.com/wp-content/uploads/2016/03/EstherBot-photo.png",
   "env": {
     "SMOOCH_APP_TOKEN": {
